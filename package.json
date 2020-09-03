@@ -7,7 +7,13 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "@m80126colin/uni-hakka": "../UniHakka/m80126colin-uni-hakka-0.3.1.tgz",
     "core-js": "^3.6.5",
+    "lodash": "^4.17.20",
+    "semantic-ui-css": "^2.4.1",
+    "tiptap": "^1.29.6",
+    "tiptap-commands": "^1.14.6",
+    "tiptap-extensions": "^1.32.6",
     "vue": "^2.6.11"
   },
   "devDependencies": {
